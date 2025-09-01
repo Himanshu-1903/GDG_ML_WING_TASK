@@ -64,10 +64,15 @@ Plot Confusion Matrix for each model
 Compare performance across models
 
 📊 Results (Example)
+
 Model	Accuracy
+
 KNN (Base Model)	48%
-SVM (Middle Model)	62%
+
+SVM (Middle Model)	85%
+
 Logistic Regression	96%
+
 
 ▶️ How to Run
 
